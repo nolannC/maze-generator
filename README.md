@@ -2,6 +2,12 @@
 
 A simple way to generate a maze and display it using Python with Pygame.
 
+Code inspired by [Daniel Shiffman](https://www.youtube.com/c/TheCodingTrain)
+
+[Here is the code](https://github.com/CodingTrain/website/tree/dbd1dfe415fd0a6e1f2bbeb8675e39c42d32ee71/CodingChallenges/CC_010_Maze_DFS/P5)
+
+And here is the wikipedia page of [this algorithm](https://en.wikipedia.org/wiki/Maze_generation_algorithm).
+
 ## How To Use
 
 ### 1. Clone the respository
